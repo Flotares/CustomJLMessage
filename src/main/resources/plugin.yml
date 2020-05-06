@@ -1,0 +1,7 @@
+name: CustomJLMessage
+version: ${project.version}
+main: at.valentinerinferno.customjlmessage.CustomJLMessage
+api-version: 1.13
+authors: [Flotares]
+description: Plugin to create custom join and leave messages
+website: valentinerinferno.at

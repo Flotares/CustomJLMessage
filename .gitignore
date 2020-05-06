@@ -1,0 +1,5 @@
+# Project exclude paths
+.idea
+src/test
+target
+CustomJLMessage.iml

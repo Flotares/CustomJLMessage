@@ -1,0 +1,7 @@
+#Type %player% to display the player
+#Type %group% to display the player's group (vault)
+#If you use %group% the color will be the same as the groups prefix color!
+#Use Minecraft color codes to make it colored
+
+joinMessage: '>>%group%%player%'
+leaveMessage: '<<%group%%player%'
