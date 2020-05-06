@@ -5,7 +5,7 @@ CustomJLMessage is a Minecraft Spigot Plugin that allows you to customize the mi
 1. Download the .jar file
 2. Download [Vault](https://dev.bukkit.org/projects/vault)
 3. Download a permission plugin which uses Vault
-4. Drag *CustomJLMessage-1.0.jar*, *Vault.jar* and the permission plugins' .jar into your plugins folder
+4. Drag *CustomJLMessage-1.0.jar*, *Vault.jar* and *the permission plugins' .jar* into your plugins folder
 5. Reload the server
 
 ## Depedencies  
